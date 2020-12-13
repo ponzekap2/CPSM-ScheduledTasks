@@ -7,7 +7,7 @@ Create Scheduled task to run under directory service account on the directory se
 Set to run every 30 minutes
 Will create a "Proxy CustomerShortName Computers" Universal security group, add all computer accounts for that specific customer to it, add the computers group to the Proxy CustomerShortName Users group.  This will enable the computers to process Group Policy
 
-
+test change
 
 
 #>
